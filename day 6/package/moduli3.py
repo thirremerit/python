@@ -1,0 +1,2 @@
+def argna():
+    print('argna')
