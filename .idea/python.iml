@@ -4,8 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/day 14/venv" />
       <excludeFolder url="file://$MODULE_DIR$/day13/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/day17/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (challange)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (lesson1)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

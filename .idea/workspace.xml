@@ -5,12 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3398520e-b7c7-4ae8-8bbd-16d31aac889e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/.idea/challange3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challange3/bmi_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/.idea/day17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day17/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,7 +44,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/thirremerit/python.git",
-    "accountId": "460051e6-41e3-470a-873d-b8d849964e8a"
+    "accountId": "02e59498-98e0-437f-afd4-7a83c168f935"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -35,14 +55,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Student/Desktop/python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BMI.executor": "Run",
+    "Python.bmi_calculator.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Student/Desktop/python"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python" />
