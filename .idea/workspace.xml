@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3398520e-b7c7-4ae8-8bbd-16d31aac889e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/challange3/.idea/challange3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challange3/bmi_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/.idea/day17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/.idea/lesson 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 19/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +39,12 @@
     &quot;assignee&quot;: &quot;artkadriu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/thirremerit/python.git",
-    "accountId": "02e59498-98e0-437f-afd4-7a83c168f935"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thirremerit/python.git&quot;,
+    &quot;accountId&quot;: &quot;02e59498-98e0-437f-afd4-7a83c168f935&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -61,10 +59,17 @@
     "Python.bmi_calculator.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Student/Desktop/python"
+    "last_opened_file_path": "C:/Users/Student/Desktop/python/lesson 19"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\python\lesson 19" />
+      <recent name="C:\Users\Student\Desktop\python" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python" />
