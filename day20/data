@@ -1,0 +1,19 @@
+{
+  "name": "Alice",
+  "age": 35,
+  "address": {
+    "street": "pashko vasa",
+    "city": "prishtine",
+    "country": "Kosove"
+  },
+  "contacts": [
+    {
+      "type": "phone",
+      "value": "555-123-4567"
+    },
+    {
+      "type": "email",
+      "value": "donjeta@gmail.com"
+    }
+  ]
+}
