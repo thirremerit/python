@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3398520e-b7c7-4ae8-8bbd-16d31aac889e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day28/day 28/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day28/day 28/app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +29,12 @@
     &quot;assignee&quot;: &quot;artkadriu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/thirremerit/python.git&quot;,
-    &quot;accountId&quot;: &quot;02e59498-98e0-437f-afd4-7a83c168f935&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thirremerit/python.git",
+    "accountId": "c375e789-14f7-45ca-bfad-9d2fdba80218"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -50,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Student/Desktop/python/recipe_manager"
+    "last_opened_file_path": "C:/Users/Student/Desktop/python"
   }
 }]]></component>
   <component name="RecentsManager">

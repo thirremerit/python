@@ -27,7 +27,7 @@ class Item(BaseModel):
     description:Optional[str]=None
 
 
-@app.post("/items", dependencies=[Depends(check_key())])
+@app.post("/items", dependencies=[Depends(check_key)])
 def create_item(item:Item):
     with get_db() as conn:
         cursor = conn.execute(
@@ -35,3 +35,33 @@ def create_item(item:Item):
             (item.name, item.description)
         )
         return {"id":cursor.lastrowid, **item.mode_dump()}
+@app.get("/items/",dependencies=[Depends(check_key)])
+def get_item():
+    with get_db() as conn:
+        rows = conn.execute("SELECT * FROM items").fetchall()
+        return [dict(row) for row in rows]
+
+@app.get("/items/{item_id}",dependencies=[Depends(check_key)])
+def get_item(item_id:int):
+    with get_db() as conn:
+        row = conn.execute("SELECT * FROM items WHERE id = ?",(item_id).fetchone()
+
+        if not row:
+            raise HTTPExeption(404,"item not found")
+
+    return [dict(row)]
+
+@app.put("items/{item_id}",dependencies=[Depends(check_key)])
+def update_item(item:id, item, Item):
+    with get_db() as conn:
+        cursor = conn.execute(
+            "UPDATE items SET name = ?, description=?",(item.name,item.description, item.id)
+
+        )
+        if cursor.rowcount == 0:
+            raise HTTPExeption(404,"item not found")
+
+        return {id: item_id}
+
+
+
