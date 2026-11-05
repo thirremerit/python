@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2
+python-dotenv>=1
+requests>=2
+beautifulsoup4>=4
